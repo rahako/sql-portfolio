@@ -16,7 +16,9 @@ SQLiteを使用して、基本的な集計・JOIN・サブクエリを活用し�
 
 - 使用技術：JOIN + GROUP BY + COUNT  
 - `queries/01_部署ごとの社員数.sql`  
-▶️ [結果を見る](images/q1_result.csv)
+▶️ [結果を見る](images/q1_result.png)
+<img width="867" height="589" alt="q1_result" src="https://github.com/user-attachments/assets/f410da8c-f66a-4e5d-9b13-921c523d9418" />
+
 
 ---
 
