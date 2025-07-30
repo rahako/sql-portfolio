@@ -6,14 +6,16 @@ SQLiteを使用して、基本的な集計・JOIN・サブクエリを活用し�
 ---
 
 ## 📂 ディレクトリ構成
+<img width="707" height="360" alt="Q1解説方法-07-30-2025_10_54_AM" src="https://github.com/user-attachments/assets/837d8f04-9c72-4022-b8c1-1aa71d74986e" />
+
 
 sql-portfolio/
-├── README.md
-├── database/
-│ ├── portfolio.db 
-│ └── insert_sample_data.sql # データ挿入スクリプト
-├── queries/ # SQLクエリファイル（Q1〜Q5）
-├── images/ # 実行結果（q1_result.png など）
+README.md
+─ database/
+　─ portfolio.db 
+  ─ insert_sample_data.sql # データ挿入スクリプト
+─ queries/ # SQLクエリファイル（Q1〜Q5）
+─ images/ # 実行結果（q1_result.png など）
 
 ---
 
